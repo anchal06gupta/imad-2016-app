@@ -4,6 +4,10 @@ body {
     margin-top: 75px;
 }
 
+body {
+    background-image: url("paper.gif");
+}
+
 .center {
     text-align: center;
 }
